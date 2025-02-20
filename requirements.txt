@@ -1,0 +1,8 @@
+pnadium
+pandas
+numpy
+unidecode
+os
+plotly.graph_objs
+dash_bootstrap_components
+dash
